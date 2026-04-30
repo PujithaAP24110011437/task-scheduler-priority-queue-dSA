@@ -23,3 +23,9 @@ Tasks are stored in a heap-based priority queue. The scheduler always executes t
 # compile/run (example for C)
 gcc main.c -o output
 ./output
+
+## 👨‍💻 Contributors
+- Pujitha Nukabathini – Task scheduling logic, heap implementation  
+- Nikhila papineni – UI / input handling  
+- Attada Keerthana  – Testing and debugging  
+- Akhil Alluri – Documentation  
