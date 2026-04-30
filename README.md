@@ -8,7 +8,7 @@ A Task Scheduling System built using the Priority Queue (Heap) concept from Data
 - Dynamic task management  
 
 ## 🛠️ Tech Stack
-- Language: C / Python / Java  
+- Language: java script / CSS / HTML  
 - Data Structure: Heap (Priority Queue)  
 
 ## ⚙️ How It Works
