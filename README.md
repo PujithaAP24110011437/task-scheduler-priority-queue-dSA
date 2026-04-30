@@ -19,10 +19,25 @@ Tasks are stored in a heap-based priority queue. The scheduler always executes t
 - Job Scheduling Systems  
 
 ## ▶️ Run the Code
-```bash
-# compile/run (example for C)
-gcc main.c -o output
-./output
+
+1. Download or clone the repository:
+   ```bash
+   git clone https://github.com/PujithaAP24110011437/task-scheduler-priority-queue-dsa.git
+2.Open the project folder
+3.Double-click on index.html
+          OR
+   Right-click → Open with browser (Chrome recommended)
+4.The Task Scheduler will open in your browser
+
+👉 When the project runs:
+- A **Task Scheduler UI** opens in the browser  
+- Users can:
+  - Add tasks with priority  
+  - View task list  
+  - Execute tasks based on priority  
+- The system internally uses a **heap (priority queue)** to manage tasks efficiently  
+
+
 
 ## 👨‍💻 Contributors
 - Pujitha Nukabathini – Task scheduling logic, heap implementation  
